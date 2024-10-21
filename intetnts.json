@@ -1,0 +1,158 @@
+{
+    "intents": [
+      {
+        "tag": "formations_disponibles_fr",
+        "patterns": [
+          "Quelles sont les formations disponibles?",
+          "Quels types de formations offrez-vous?",
+          "Quelles formations proposez-vous?",
+          "Qu'est-ce que vous proposez comme formations?"
+        ],
+        "responses": [
+          "Nous offrons des formations dans diverses disciplines artisanales, gastronomiques et créatives telles que la pâtisserie, la broderie, le maquillage, les accessoires, et bien d'autres. Vous trouverez toutes les formations dans la section Cours."
+        ]
+      },
+      {
+        "tag": "formations_disponibles_tn",
+        "patterns": [
+          "Chnowa les formations eli 3andkom",
+          "3andkom des formations?",
+          "Chnowa les cours eli te9dimou?",
+          "Chnowa les cours eli 3andkom?"
+        ],
+        "responses": [
+          "3ana des formation fi barcha hajet teb3a l’artisanat et la gastronomie kif el broderie, patisserie, accessoires, fabrication de bougies, makeup, w barcha hajet okhra tnajm todkhel lel partie cours taw tal9a les formations lkol."
+        ]
+      },
+      {
+        "tag": "qui_sommes_nous_fr",
+        "patterns": [
+          "Qui êtes-vous?",
+          "Présentez-vous",
+          "Qui est Arzaak?",
+          "C'est quoi Arzaak?"
+        ],
+        "responses": [
+          "Nous sommes Arzaak, une plateforme de formation spécialisée dans les métiers artisanaux et créatifs. Nous aidons les particuliers ainsi que les artisans à développer leurs compétences et à rentabiliser leurs activités."
+        ]
+      },
+      {
+        "tag": "qui_sommes_nous_tn",
+        "patterns": [
+          "Chkonkom entouma?",
+          "Chnowa Arzaak?",
+          "chkoun Arzaak?"
+        ],
+        "responses": [
+          "A7na Arzaak, plateforme ta3 ta3lim tekhss bchoumou3e3 artisanales w kreatives. N3awnou les particuliers w artisans bch yo9ouy competences w yratablizer activites mt3hom."
+        ]
+      },
+      {
+        "tag": "devenir_formateur_fr",
+        "patterns": [
+          "Comment puis-je devenir formateur/formatrice?",
+          "Comment devenir formateur/formatrice?",
+          "Je veux être formateur/formatrice"
+        ],
+        "responses": [
+          "Sur la page d'accueil, vous trouverez un bouton 'Devenir formateur'. Il vous suffit de remplir le formulaire, et nous reviendrons vers vous le plus tôt possible."
+        ]
+      },
+      {
+        "tag": "devenir_formateur_tn",
+        "patterns": [
+          "Kifech najem nwali formateur/formatrice",
+          "Chnowa na3mal bch nwali formateur/formatrice?",
+          "kifech nwali formateur/formatrice?"
+        ],
+        "responses": [
+          "Fil page d'accueil fama bouton devenir formateur 3amer el formulaire taw nkalmouk."
+        ]
+      },
+      {
+        "tag": "acheter_cours_fr",
+        "patterns": [
+          "Comment puis-je acheter un cours?",
+          "Comment acheter une formation?",
+          "Je veux acheter un cours"
+        ],
+        "responses": [
+          "Dans la section Cours, vous trouverez toutes les formations disponibles. Il vous suffit de choisir la formation souhaitée, de l'ajouter au panier et de valider votre commande. Pour le paiement, vous pouvez utiliser votre carte bancaire ou carte postale directement sur le site."
+        ]
+      },
+      {
+        "tag": "acheter_cours_tn",
+        "patterns": [
+          "Kifech najm ncherk fi formation?",
+          "Kifech najm nechri formation?",
+          "Kifech najm nechri cours?",
+          "Chnowa l procédure bch nechri cours?"
+        ],
+        "responses": [
+          "Odkhel lel Cours w akthar cours eli hajtk bih, w tnajm directement tchrih w yt7alk el accès."
+        ]
+      },
+      {
+        "tag": "payer_cours_fr",
+        "patterns": [
+          "Comment puis-je payer un cours?",
+          "Comment acheter une formation?",
+          "Comment payer pour une formation?",
+          "Quels sont les moyens de paiement?"
+        ],
+        "responses": [
+          "Nous vous offrons un paiement en ligne sécurisé. Une fois que vous avez validé l'achat d'un cours, vous pouvez payer directement sur la plateforme en cliquant sur le bouton 'Payer avec Konnect'. Vous pouvez utiliser votre carte Visa, Mastercard, carte e-dinar, ou encore un compte Flouci."
+        ]
+      },
+      {
+        "tag": "payer_cours_tn",
+        "patterns": [
+          "Kifech najm nkhales?",
+          "Chnowa les moyens bch nkhales?",
+          "Chnowa les options bch nkhales?"
+        ],
+        "responses": [
+          "Tnajm direct tkhales par carte bancaire wala edinar wala ken 3andk compte fil app flouci directement sur notre plateforme, il suffit tkhtar paiement par konnect w tkhales."
+        ]
+      },
+      {
+        "tag": "certificat_formation_fr",
+        "patterns": [
+          "Offrez-vous des certificats de formation?",
+          "Est-ce que je peux obtenir un certificat?",
+          "Où puis-je trouver le certificat?",
+          "Comment obtenir un certificat?"
+        ],
+        "responses": [
+          "Oui, pour chaque cours, vous avez droit à une attestation de formation téléchargeable automatiquement.",
+          "Une fois que vous avez terminé le cours, vous pouvez télécharger votre certificat."
+        ]
+      },
+      {
+        "tag": "certificat_formation_tn",
+        "patterns": [
+          "ta3tiw des certificats?",
+          "Nnajem nakhou certificat?",
+          "kifeh nakhou certificat?",
+          "Win nal9a certificat?"
+        ],
+        "responses": [
+          "Ki tkaml el cours tnajm téléchargi certificat directement ml compte mt3k."
+        ]
+      },
+      {
+        "tag": "securite_donnees",
+        "patterns": [
+          "Est-ce que mes données sont sécurisées?",
+          "Est-ce que le paiement en ligne est sécurisé?",
+          "Mes informations sont-elles protégées?",
+          "Est-ce que vos services sont sécurisés?"
+        ],
+        "responses": [
+          "Oui, toutes vos données sont protégées et sécurisées.",
+          "Oui, bien sûr. Ne vous inquiétez pas, toutes vos données sont sécurisées."
+        ]
+      }
+    ]
+  }
+  
